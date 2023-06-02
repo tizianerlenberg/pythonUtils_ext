@@ -1,0 +1,1 @@
+import erlenberg_ext.cryptScriptGenerator.__main__
